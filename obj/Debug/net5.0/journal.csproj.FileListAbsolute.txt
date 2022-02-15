@@ -1,0 +1,16 @@
+C:\Users\Full Stack Developer\Downloads\Phito\journal\bin\Debug\net5.0\journal.exe
+C:\Users\Full Stack Developer\Downloads\Phito\journal\bin\Debug\net5.0\journal.deps.json
+C:\Users\Full Stack Developer\Downloads\Phito\journal\bin\Debug\net5.0\journal.runtimeconfig.json
+C:\Users\Full Stack Developer\Downloads\Phito\journal\bin\Debug\net5.0\journal.runtimeconfig.dev.json
+C:\Users\Full Stack Developer\Downloads\Phito\journal\bin\Debug\net5.0\journal.dll
+C:\Users\Full Stack Developer\Downloads\Phito\journal\bin\Debug\net5.0\ref\journal.dll
+C:\Users\Full Stack Developer\Downloads\Phito\journal\bin\Debug\net5.0\journal.pdb
+C:\Users\Full Stack Developer\Downloads\Phito\journal\obj\Debug\net5.0\journal.csprojAssemblyReference.cache
+C:\Users\Full Stack Developer\Downloads\Phito\journal\obj\Debug\net5.0\journal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Full Stack Developer\Downloads\Phito\journal\obj\Debug\net5.0\journal.AssemblyInfoInputs.cache
+C:\Users\Full Stack Developer\Downloads\Phito\journal\obj\Debug\net5.0\journal.AssemblyInfo.cs
+C:\Users\Full Stack Developer\Downloads\Phito\journal\obj\Debug\net5.0\journal.csproj.CoreCompileInputs.cache
+C:\Users\Full Stack Developer\Downloads\Phito\journal\obj\Debug\net5.0\journal.dll
+C:\Users\Full Stack Developer\Downloads\Phito\journal\obj\Debug\net5.0\ref\journal.dll
+C:\Users\Full Stack Developer\Downloads\Phito\journal\obj\Debug\net5.0\journal.pdb
+C:\Users\Full Stack Developer\Downloads\Phito\journal\obj\Debug\net5.0\journal.genruntimeconfig.cache
